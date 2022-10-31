@@ -1,0 +1,21 @@
+body{
+    background-color:whitesmoke;
+    text-align: center;
+    font-style: italic;
+}
+
+.navegacion{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+
+ }
+
+ h2{
+     text-align:left;
+     font-style: normal;
+ }
+ p{
+     text-align: left;
+     font-style: normal;
+ }
